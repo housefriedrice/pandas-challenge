@@ -1,0 +1,5 @@
+1. For the game Heroes of Pymoli, there tend to be much more male players (more than 5 times more) than female players.
+
+2. The group age 20-24 has most players among all age groups. For people under 25, the older the people, the more they are inclined to play the game Heroes of Pymoli. For people above 25, the older the people, the less they are inclided to play the game Heroes of Pymoli.
+
+3. The group age 20-24 has highest purchase counts and purchase values among all age groups. For players under 25, the older the players, they tend to purchase more during the game Heroes of Pymoli. For people above 25, the older the players, they tend to purchase less during the game Heroes of pymoli.
